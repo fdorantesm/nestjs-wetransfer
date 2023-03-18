@@ -36,3 +36,7 @@ lerna-debug.log*
 
 .minio
 .mongodb
+
+.env
+.env.*
+!.env.example
